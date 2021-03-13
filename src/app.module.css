@@ -1,0 +1,82 @@
+.navbar {
+  background-color: rgb(247, 245, 245);
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.coyinfo {
+  color: blue;
+  margin-right: 20px;
+  font-size: 14px;
+}
+.signup {
+  font-size: 12px;
+  background: blue;
+  color: #ffffff;
+  font-weight: 500;
+  padding: 5px 35px;
+}
+.login {
+  font-size: 12px;
+  color: blue;
+  font-weight: 500;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  padding-left: 20px;
+  margin-right: 20px;
+}
+.pagelayer {
+  width: 100%;
+  height: 60vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background: red; */
+  background-image: url('https://images.unsplash.com/photo-1552519507-da3b142c6e3d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80');
+}
+.side {
+  background-color: rgba(177, 175, 175, 0.7);
+  height: 60vh;
+  margin-right: 50px;
+  margin-left: 80px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.p1 {
+  font-size: 23px;
+
+  font-weight: bold;
+  padding-top: 80px !important;
+}
+.p2 {
+  font-size: 23px;
+  /* padding-left: 15px; */
+  font-weight: bold;
+  padding-top: 30px !important;
+  color: rgb(103, 103, 224);
+}
+.sec {
+  padding: 50px;
+}
+.header {
+  font-weight: 700;
+  font-size: 23px;
+}
+.sub {
+  color: rgb(103, 103, 224);
+  font-weight: bold;
+  /* margin-top: 20px; */
+}
+.card {
+  margin-top: 50px;
+}
+.angle {
+  margin-bottom: 20px;
+  font-size: 21px;
+  float: right;
+  margin-right: 50px;
+}
+.sec2 {
+  margin-top: 70px;
+}
+.cardtext {
+  font-weight: bold;
+}
